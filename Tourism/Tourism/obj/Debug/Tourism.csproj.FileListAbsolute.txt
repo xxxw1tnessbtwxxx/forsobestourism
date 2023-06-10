@@ -1,0 +1,14 @@
+D:\Projects\c#\Tourism\Tourism\bin\Debug\Tourism.exe.config
+D:\Projects\c#\Tourism\Tourism\bin\Debug\Tourism.exe
+D:\Projects\c#\Tourism\Tourism\bin\Debug\Tourism.pdb
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.csproj.AssemblyReference.cache
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.csproj.SuggestedBindingRedirects.cache
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.Properties.Resources.resources
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.csproj.GenerateResource.cache
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.csproj.CoreCompileInputs.cache
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.exe
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.pdb
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.ActionConstructor.resources
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.MainActions.resources
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.AdminLogin.resources
+D:\Projects\c#\Tourism\Tourism\obj\Debug\Tourism.ActionInformation.resources
